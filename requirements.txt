@@ -1,2 +1,2 @@
-python-bs4==4.4.0
+beautifulsoup4==4.4.0
 Flask==1.1.0
